@@ -1591,7 +1591,7 @@ body.offcanvas .colorlib-nav-toggle {
 .cookie-wrapper {
     position: fixed;
     bottom: 0px;
-    right: 0px;
+    left: 0px;
     width: 40%;
     background: #fff;
     padding: 15px 25px 22px;
